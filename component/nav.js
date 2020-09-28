@@ -9,6 +9,9 @@ function Navigation() {
             <a>Sitmov.com</a>
           </Link>
         </li>
+        <li className="demo">
+          Demo
+        </li>
       </ul>
     </div>
   );
