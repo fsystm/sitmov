@@ -67,7 +67,7 @@ export async function getStaticProps() {
   return {
     props: {
       posts: posts,
-      // home: home.HomePage[0],
+      home: home.HomePage[0],
     },
   };
 }
