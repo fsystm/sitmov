@@ -1,0 +1,233 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #050b11;
+  text-decoration: none;
+}
+.containerr {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+.details {
+  margin: 0 auto;
+  max-width: 950px;
+  width: 100%;
+  height: auto;
+}
+.detailsTextAlign {
+  margin-top: 25px;
+  color: white;
+}
+.detailsText {
+  font-size: 13px;
+  opacity: 0.8;
+}
+.castPics {
+  float: left;
+}
+.castPic {
+  width: 40px;
+  height: 52px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
+.detailsBtn {
+  margin-top: 90px;
+}
+.watchNow {
+  margin-right: 20px;
+  border-radius: 30px;
+  padding: 7px 20px;
+  color: white;
+  background-color: #2874a6;
+  display: inline-block;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+}
+.watchNow:hover {
+  text-decoration: none;
+  color: white;
+}
+.download {
+  border-radius: 30px;
+  padding: 7px 20px;
+  background: transparent;
+  color: white;
+  display: inline-block;
+  border: 1px solid white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+}
+.download:hover {
+  text-decoration: none;
+  color: white;
+}
+.detailsPic {
+  float: right;
+  margin-right: 100px;
+}
+.detailsPic img {
+  width: 200px;
+  height: 265px;
+}
+.sitmovList {
+  max-width: 950px;
+  margin: 0 auto;
+  margin-top: 50px;
+  color: white;
+}
+.sitmovPic {
+  margin-right: 10px;
+  margin-bottom: 5px;
+  width: 180px;
+  height: 250px;
+  float: left;
+}
+.sitmovListTitle {
+  margin-bottom: 10px;
+}
+.hr {
+  border-width: 1px;
+  border-color: gray;
+  margin-bottom: 25px;
+}
+.bigPic {
+  margin-top: 20px;
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+.total {
+  float: right;
+  margin-top: -46px;
+}
+.littleContainer {
+  position: relative;
+  display: inline-block;
+}
+.imdbHome{
+  font-weight: 500;
+  font-size: 16px;
+  color: black;
+  position: absolute;
+  z-index: 999;
+  margin: 0 auto;
+  left: 60%;
+  right: 0;
+  top: 3%; /* Adjust this value to move the positioned div up and down */
+  text-align: center;
+  height: 8%;
+  width: 22%;
+  background-color: yellow;
+  font-family: 'Teko', sans-serif;
+}
+.embedTrailer{
+  background-color: black;
+  width: 100%;
+  height: 500px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+.idPic{
+  float: left;
+  width: 250px;
+  height: 350px;
+}
+.idDetails{
+  float: left;
+  margin-left: 15px;
+  width: 680px;
+  padding: 10px;
+}
+.idDetailsText{
+  font-size: 15px;
+  color: #ABB2B9 ;
+  font-family: 'Open Sans', sans-serif;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 15px;
+}
+#table-example-1 { 
+  border: solid thin #17202A; 
+  border-collapse: collapse; 
+}
+#table-example-1 td { 
+  border: solid thin #17202A;
+  padding: 0rem 2rem;
+  padding-top: 5px;
+}
+#table-example-1 td { 
+  border-style: none solid; 
+}
+.tr1{
+  text-align: center;
+  font-size: 13px;
+  color: #85929E ;
+  font-family: 'Ubuntu', sans-serif;
+}
+.tr2{
+  text-align: center;
+  font-size: 13px;
+  font-family: 'Ubuntu', sans-serif;
+}
+.td-imdb{
+  color: #F39C12 ;
+}
+.genre{
+  color: #5DADE2;
+  margin-top: -2px;
+  float: left;
+}
+.genreTitle{
+  float: left;
+}
+.footer{
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-left: 25px;
+  color: #909497 ;
+  font-family: 'Play', sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  object-fit: cover;
+  font-size: 22PX;
+  color: white;
+  float: left;
+  background-color: black;
+  font-family: 'Pacifico', cursive;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 14px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: white;
+  text-decoration: none;
+}

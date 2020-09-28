@@ -1,0 +1,1134 @@
+{
+  "HomePage": [
+    {
+      "title": "title",
+      "img": "https://cdn.flickeringmyth.com/wp-content/uploads/2018/10/the-boys-1.jpg"
+    }
+  ],
+  "sitmovAPI": [
+    {
+      "title": "La Casa De Papel",
+      "id": "la-casa-de-papel",
+      "pic": "http://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BYzcyMGU2YmYtN2JjNi00ZTYyLTgxMjMtMWNmMzBkZWU0MjUwXkEyXkFqcGdeQXVyMTIxNzA0MTg@._V1_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BZGVlMTQyODEtNTlmZS00MTg1LWEwNmYtZmRlNjFmNzg0MDNhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BODMzZDNjZjUtYzlhOC00ODNhLWI4NDMtNjc0ZmE1YWNlYzQ0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,836,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BNTQwOTZlOTktZWI2Ni00MGU0LTg3MDItOGFlOGZjYzVmOTYwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg"
+        },
+        {
+          "pic": "https://vignette.wikia.nocookie.net/elite-netflix/images/d/db/Miguel_Herr%C3%A1n.jpg/revision/latest?cb=20190820080037"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTY2NTU2NDU1OF5BMl5BanBnXkFtZTgwMTQ5NDAzNjM@._V1_SY1000_CR0,0,677,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://image.tmdb.org/t/p/original/6k4AnIGrqxuZcE2fLZSHoxjmMIb.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BYTkxNDlmNWItY2I3NC00OWM5LWFiN2ItMGJkM2ZmZTllNDgxXkEyXkFqcGdeQXVyMjM4MjIyOTM@._V1_SY1000_CR0,0,999,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BY2FjZmVkODQtZTFmMC00OTNmLTkyNGMtNjRjY2RmOTY3MWJmXkEyXkFqcGdeQXVyODM4NzgwOTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMzFjNjViYTgtMTZjNS00MzA0LTk5MTgtYTUwNzQzNmRiNjBmXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg"
+        }
+      ],
+      "imdb": "8.4",
+      "trailer": "https://www.youtube.com/embed/hMANIarjT50",
+      "details": "Money Heist is a Spanish heist crime drama television series created by Álex Pina. The series traces two long-prepared heists led by the Professor, one on the Royal Mint of Spain, and one on the Bank of Spain. The series was initially intended as a limited series to be told in two parts.",
+      "season": "4",
+      "episodes": "40",
+      "country": "es",
+      "kind": "Crime drama, Heist, Thriller, Mystery, Suspense",
+      "years": "2017-"
+    },
+    {
+      "title": "The End of the F***ing World",
+      "id": "the-end-of-the-f***ing-world",
+      "pic": "https://m.media-amazon.com/images/M/MV5BN2ZhNmQ2MjQtMmQzMi00YjE5LTlkMWMtMjk5YzIxMjk2NDc2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX800_AL_.jpg",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjQ2NjU3MzcyM15BMl5BanBnXkFtZTgwNzY1MzU2NDM@._V1_.jpg"
+        },
+        {
+          "pic": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/p758748/AlexLawther.jpg"
+        },
+        { "pic": "https://mr.comingsoon.it/imgdb/persone/240991.jpg" },
+        {
+          "pic": "https://bifa.imgix.net/web/2018/10/szbxwzmwdm.jpg?auto=compress%2Cformat&fit=scale&h=1995&ixlib=php-1.2.1&w=1600&wpsize=xl"
+        },
+        {
+          "pic": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Naomi_Ackie_%28Helen_Maybanks%29_HiRes.jpg/revision/latest?cb=20180808012438"
+        },
+        { "pic": "https://artworks.thetvdb.com/banners/actors/381918_t.jpg" }
+      ],
+      "imdb": "8.1",
+      "trailer": "https://www.youtube.com/embed/aV-y3bvYFYA",
+      "details": "The End of the F**ing World is a British dark comedy-drama television programme, based on a graphic novel of the same name by Charles Forsman. The eight-part programme premiered its first episode on Channel 4 in the United Kingdom on 24 October 2017, after which all eight episodes were released on All 4.",
+      "season": "2",
+      "episodes": "16",
+      "country": "uk",
+      "kind": "Adventure, Comedy, Crime",
+      "years": "2017-2019"
+    },
+    {
+      "title": "Game of Thrones",
+      "id": "game-of-thrones",
+      "pic": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SY1000_CR0,0,734,1000_AL_.jpg",
+      "casts": [
+        {
+          "pic": "https://1.bp.blogspot.com/-IocyS2bXSP8/U10JoKjWUsI/AAAAAAAAZhA/-mCuzYaigi4/s2900/Emilia+Clarke+photo.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTA2NTI0NjYxMTBeQTJeQWpwZ15BbWU3MDIxMjgyNzY@._V1_SY1000_CR0,0,665,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjM5Mjg4MDQ3MF5BMl5BanBnXkFtZTgwMDA2MjkxMjI@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTkwNDQ3MjY1NV5BMl5BanBnXkFtZTcwMjQzMzEzOQ@@._V1_SY1000_CR0,0,779,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/92/Lena_Heady_s6_premeire_of_series_2016.jpg/revision/latest?cb=20160703041824"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMzczZWMxYTItZDZhZC00ZTQ4LWE2OTMtYzI1ODhkYmViN2YyXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg"
+        },
+        {
+          "pic": "https://tvguide1.cbsistatic.com/mediabin/showcards/celebs/g-i/thumbs/iain-glen_sc_768x1024.png"
+        },
+        {
+          "pic": "https://www3.pictures.zimbio.com/gi/21st+Annual+Screen+Actors+Guild+Awards+Arrivals+v0UJiPRWTDVl.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjAyMTI1OGYtNWQxMC00ZWJmLTgyOGMtN2RmNDUwZTQ2NTM3XkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_SY1000_CR0,0,667,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjEyMDM0NzQ5NV5BMl5BanBnXkFtZTcwNDkyODQyNw@@._V1_SY1000_CR0,0,665,1000_AL_.jpg"
+        }
+      ],
+      "imdb": "9.3",
+      "trailer": "https://www.youtube.com/embed/gcTkNV5Vg1E",
+      "details": "Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO. It is an adaptation of A Song of Ice and Fire, George R. R. Martin's series of fantasy novels, the first of which is A Game of Thrones.",
+      "season": "8",
+      "episodes": "73",
+      "country": "us",
+      "kind": "Fantasy, Action, Adventure, Drama, Tragedy",
+      "years": "2011-2019"
+    },
+    {
+      "title": "Chernobyl",
+      "id": "chernobyl",
+      "pic": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTY5MzkxMjA4MV5BMl5BanBnXkFtZTgwMjI0NTg3NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMzljNGIzYjgtMTQ0MS00OWU1LTk1NWEtOWQ3ZDhmNzQ2ZDAxXkEyXkFqcGdeQXVyMDAzMDk4OQ@@._V1_SY1000_CR0,0,1230,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BM2FlYTViMzMtY2UwMi00MDczLTk2ZWYtZjMyMjg3YTJmZmY0XkEyXkFqcGdeQXVyMTc0ODc0NzE@._V1_SY1000_SX752_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjAwNzc5MjE0N15BMl5BanBnXkFtZTcwMzUyNTMzNw@@._V1_SY1000_CR0,0,705,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BODdlNGY5N2QtZTM5ZC00ODIwLWFiNmQtZDJiN2QwZDJmMTcxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BZTJiYzU4M2YtYzVkZC00YzI4LTgzNTAtOTUzNDc5YWNhODI5XkEyXkFqcGdeQXVyOTE4MDc4MA@@._V1_SY1000_CR0,0,799,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMDVhNzk1MGEtNTk3Mi00NzJiLWJmYzItNmZmNjc1MTBiZDQzXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      ],
+      "imdb": "9.4",
+      "trailer": "https://www.youtube.com/embed/s9APLXM9Ei8",
+      "details": "Chernobyl is a 2019 historical drama television miniseries produced by HBO and Sky UK. Created and written by Craig Mazin and directed by Johan Renck, the series revolves around the Chernobyl nuclear disaster of April 1986 and the cleanup efforts that followed.",
+      "season": "1",
+      "episodes": "5",
+      "country": "us-uk",
+      "kind": "Historical drama, Tragedy",
+      "years": "2019"
+    },
+    {
+      "title": "Rise of Empires: Ottoman",
+      "id": "rise-of-empires-ottoman",
+      "pic": "https://m.media-amazon.com/images/M/MV5BODIyNGU3OGMtNzBiYi00YTA4LTkzNjItYzBjZDgwMDUyMDg1XkEyXkFqcGdeQXVyOTkzODAxNTE@._V1_.jpg",
+      "casts": [
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.sinematurk.com%2Fperson%2F5%2F0c%2F10e0f6abdff6%2F20180813_185656.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BNTZjMzJlNmYtNDNiNi00MTI1LTliMDEtZDM0ZDVhMGQ0YTlmXkEyXkFqcGdeQXVyMjM5MzE5NTI@._V1_SY1000_CR0,0,851,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BZGU2ZTYwYWItMGIyOC00ZjIxLWFiZmYtMzlmNmE1M2Y3YzExXkEyXkFqcGdeQXVyNjE5NjMzMTc@._V1_SY1000_CR0,0,893,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn1.gq.com.tr%2Ffiles%2Fimg%2Fphoto_gallery_photos%2F16-10%2F17%2Fbirkan-sokullu-hayat-sarkisi-gq-sonbahar-2016-10.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdo5ctr7j643mo.cloudfront.net%2Fwp-content%2Fuploads%2F2013%2F10%2F01102825%2FTuba-Bu%25CC%2588yu%25CC%2588ku%25CC%2588stu%25CC%2588n-Arte-Madrid.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMGYwMGEyMzctZmFlZC00MTliLTljZDItYjE4ZDlmMjg3MWNmXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.sinematurk.com%2Fperson%2F6%2F2e%2F9f931c2cb79d%2F11dd_2.jpg&f=1&nofb=1"
+        }
+      ],
+      "imdb": "8.0",
+      "trailer": "https://www.youtube.com/embed/t3ISUY0l0WQ",
+      "details": "Rise of Empires: Ottoman is a Turkish historical docudrama, starring Cem Yiğit Üzümoğlu and Tommaso Basili. Its first season, which consists of 6 episodes, is directed by Emre Şahin and written by Kelly McPherson. It deals with the Ottoman Empire and Mehmed the Conqueror and tells the story of the Fall of Constantinople.",
+      "season": "1",
+      "episodes": "6",
+      "country": "tr",
+      "kind": "Docudrama",
+      "years": "2020"
+    },
+    {
+      "title": "Mr. Robot",
+      "id": "mr-robot",
+      "pic": "https://i.pinimg.com/originals/db/33/72/db337203ba068cbb11175657910e22a6.jpg",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_SY1000_CR0,0,672,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_SY1000_CR0,0,664,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjM5MzIyNTc2OV5BMl5BanBnXkFtZTcwNzI4MzQ5OQ@@._V1_SY1000_CR0,0,664,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BNzJkNWQ3Y2YtNmVhNC00ODE4LTg2NTQtM2U5NmFjMjExM2IxXkEyXkFqcGdeQXVyMzIxNTMwMQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fkingoftheflatscreen.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fportia_doubleday_02.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tvgcdn.net%2Fmediabin%2Fshowcards%2Fcelebs%2Fm-o%2Fthumbs%2Fmichael-cristofer-189243_828x1104.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTkwNTAwMjAwM15BMl5BanBnXkFtZTgwODI5NDE3NTE@._V1_SY1000_SX800_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.tvgcdn.net%2Fmediabin%2Fshowcards%2Fcelebs%2Fa-b%2Fthumbs%2Fbd-wong_sc_768x1024.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fstephanie-corneliussen-gq-20th-anniversary-men-of-the-year-party-in-los-angeles-ca-2.jpg&f=1&nofb=1"
+        }
+      ],
+      "imdb": "8.5",
+      "trailer": "https://www.youtube.com/embed/N6HGuJC--rk",
+      "details": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression.",
+      "season": "4",
+      "episodes": "46",
+      "country": "us",
+      "kind": "Drama, Techno thriller, Psychological thriller",
+      "years": "2015-2019"
+    },
+    {
+      "title": "Stranger Things",
+      "id": "stranger-things",
+      "pic": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTQ3NzM3MTc2NF5BMl5BanBnXkFtZTcwODMxNjA0NA@@._V1_SY1000_CR0,0,734,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BZTc5ODUzMDAtZGFhZS00NmExLTlhYWYtZDY0NGI2MGMwYTIzXkEyXkFqcGdeQXVyODY0MzQyODc@._V1_SY999_CR0,0,804,999_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BYjM2NmFiNGYtODQ1OC00ZTE5LTg4ZWYtYjFmODk4YmUyZDMzXkEyXkFqcGdeQXVyNjQ3NDAwOTA@._V1_SY1000_SX800_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fmillie-bobby-brown-paleyfest-2018-stranger-things-in-hollywood-9.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BNTkyNDIyMzQ5OF5BMl5BanBnXkFtZTgwNDUwMDM2NDM@._V1_SY1000_CR0,0,646,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BOTY2NDY0NDgwNF5BMl5BanBnXkFtZTgwNTE3NTUzNjM@._V1_SY1000_CR0,0,658,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2018%2F01%2Fnatalia-dyer-2018-critics-choice-awards-1.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjEyNDUxOTAzNF5BMl5BanBnXkFtZTgwMjc3OTIxMjE@._V1_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.fandango.com%2FImageRenderer%2F0%2F0%2Fredesign%2Fstatic%2Fimg%2Fdefault_poster.png%2F0%2Fimages%2Fmasterrepository%2Fperformer%2520images%2Fp799579%2FJoeKeery.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://www.imdb.com/name/nm0120648/mediaviewer/rm1420459008"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fecelebrityfacts.com%2Fimages%2F96522%2Fnoah-schnapp-1509947614.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjgzNjJiMjgtMzllZS00NGRjLTgyOWEtYzVhNzgxODE0ZDA3XkEyXkFqcGdeQXVyNTU0OTE5MjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        }
+      ],
+      "imdb": "8.8",
+      "trailer": "https://www.youtube.com/embed/b9EkMc79ZSU",
+      "details": "Stranger Things is an American science fiction horror web television series created by the Duffer Brothers and released on Netflix. The twins serve as showrunners and are executive producers along with Shawn Levy and Dan Cohen. The series premiered on Netflix on July 15, 2016.",
+      "season": "3",
+      "episodes": "33",
+      "country": "us",
+      "kind": "Science fiction, Horror, Period drama",
+      "years": "2016-"
+    },
+    {
+      "title": "Snowpiercer",
+      "id": "snowpiercer",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.comicbook.com%2F2020%2F01%2Fsnowpiercer-tv-series-poster-1203209.jpeg%3Fauto%3Dwebp%26width%3D1000%26height%3D1481%26crop%3D1000%3A1481%2Csmart&f=1&nofb=1",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BOTczNTgzODYyMF5BMl5BanBnXkFtZTcwNjk4ODk4Mw@@._V1_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTY5NzA2ODI1MV5BMl5BanBnXkFtZTgwMzg1OTg4ODE@._V1_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMDlkMjAzYzAtYjFiNy00ODUxLTlkNDYtNmRkYzNkMGRiMzk2XkEyXkFqcGdeQXVyMjY5MzM3OTk@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hawtcelebs.com%2Fwp-content%2Fuploads%2F2017%2F09%2Falison-wright-at-creative-arts-emmy-awards-in-los-angeles-09-10-2017_1.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fannalise-basso-68th-annual-emmy-awards-in-los-angeles-09-18-2016-1.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmusicimage.xboxlive.com%2Fcatalog%2Fvideo.contributor.332f6500-0200-11db-89ca-0019b92a3933%2Fimage%3Flocale%3Dpt-br%26target%3Dcircle&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjI3NTU5OTg5Nl5BMl5BanBnXkFtZTgwMDY2OTEzNjE%40._V1_.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.fandango.com%2FImageRenderer%2F0%2F0%2Fredesign%2Fstatic%2Fimg%2Fdefault_poster.png%2F0%2Fimages%2Fmasterrepository%2Fperformer%2520images%2Fp729370%2Fwhiskeytangofoxtrot-pm-12.jpg&f=1&nofb=1"
+        }
+      ],
+      "imdb": "6.7",
+      "trailer": "https://www.youtube.com/embed/lGcJL6TG5cA",
+      "details": "Seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a perpetually-moving train that circles the globe, where class warfare, social injustice and the politics of survival play out.",
+      "season": "1",
+      "episodes": "10",
+      "country": "us",
+      "kind": "Action, Drama, Sci-Fi ",
+      "years": "2020-"
+    },
+    {
+      "title": "13 Reasons Why",
+      "id": "thirteen-reasons-why",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flhsstatesman.com%2Fwp-content%2Fuploads%2F2017%2F05%2F13-reasons-why.jpg&f=1&nofb=1",
+      "casts": [
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fdisney%2Fimages%2Fa%2Fab%2FDylan_Minnette.jpg%2Frevision%2Flatest%3Fcb%3D20180315204611&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fthelast-magazine.com%2Fwp-content%2Fuploads%2F2017%2F04%2FwTLM_KatherineL_3.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.tvgcdn.net%2Fmediabin%2Fshowcards%2Fcelebs%2Fc%2Fthumbs%2Fchristian-navarro-1032730_828x1104.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2017%2F04%2Falisha-boe-13-reasons-why-tv-series-premiere-in-los-angeles-1.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.popsugar-assets.com%2Ffiles%2Fthumbor%2F7hTr99r7LhurOkBKOHohey1uUTc%2Ffit-in%2F1024x1024%2Ffilters%3Aformat_auto-!!-%3Astrip_icc-!!-%2F2017%2F04%2F18%2F912%2Fn%2F1922398%2F989fd8155c7adae0_GettyImages-663804342%2Fi%2FBrandon-Flynn-Cutest-Pictures.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.8t6-MvQNilK2GjbOkX1WmQHaLJ%26pid%3DApi&f=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww4.pictures.zimbio.com%2Fgi%2FPeople%2BChoice%2BAwards%2B2017%2BArrivals%2BqDIVtYAxmlux.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww2.pictures.zimbio.com%2Fgi%2FLouder%2BBombs%2BPress%2BConference%2B68th%2BAnnual%2BlgGTvGe-fsjx.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fspeakerdata2.s3.amazonaws.com%2Fphoto%2Fimage%2F891247%2FMV5BMGY4NDVkMzUtZjg2Mi00ZTk2LTk3MzAtYWU3Njc4NWVjMjA4L2ltYWdlXkEyXkFqcGdeQXVyMTY1NjI4ODk_._V1_SY1000_CR0_0_667_1000_AL_.jpg&f=1&nofb=1"
+        }
+      ],
+      "imdb": "7.7",
+      "trailer": "https://www.youtube.com/embed/toj3CyMhBOs",
+      "details": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+      "season": "4",
+      "episodes": "49",
+      "country": "us",
+      "kind": "Drama, Mystery",
+      "years": "2017-2020"
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Foyster.ignimgs.com%2Fwordpress%2Fstg.ign.com%2F2019%2F12%2FLockeKey_Vertical_Teaser_RGB_EN-US-1.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tvgcdn.net%2Ffeed%2F1%2F601%2Fthumbs%2F118831601_1300x1733.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.3",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-3KqPI7yUuak%2FUoXQPfSN4mI%2FAAAAAAAAGow%2FbsZ8dwd5CJo%2Fs1600%2FHow%2BI%2BMet%2BYour%2BMother%2B-%2BSeason%2B8.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.3",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/999716-4-optimized.jpg",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "7.7",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.2",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/721941-4-optimized.jpg",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.2",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Frickandmorty%2Fimages%2F7%2F70%2FRick_and_Morty_Season_1.jpg%2Frevision%2Flatest%3Fcb%3D20161125224650&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "9.2",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fewedit.files.wordpress.com%2F2017%2F11%2Fdark_us.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.8",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.crew-united.com%2FMedia%2FImages%2F982%2F982567%2F982567.1024.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "7.9",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.film1.nl%2Fimages%2Fportrait%2Foriginal%2F83590.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "9.5",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Firishamerica.com%2Fwp-content%2Fuploads%2F2016%2F12%2Fpeaky_blinders_tv_series_poster_by_marrakchi-d7siv3o.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.8",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scifinow.co.uk%2Fwp-content%2Fuploads%2F2016%2F09%2Fwestworld-poster.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.7",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbihdfilmizlesene.com%2Fwp-content%2Fuploads%2F2020%2F05%2Faf6de7031b6a1f9f1fccfa674dbdfa7b.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "7.6",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtwQFR1PyEysR4ZkJn6jBKXmPk6Y.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.5",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.culturaencadena.com%2Fimages%2Fstories%2Fcontenidooctubre2019%2FATIYE.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "7.6",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwlext.net%2Fwp-content%2Fuploads%2F2018%2F12%2FHakan-Muhaf%25C4%25B1z-Aka-The-Protector-2018-Turkish-Series-HD-Streaming-with-English-Subtitles-1.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "6.8",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Focc-0-999-1001.1.nflxso.net%2Fart%2Fcaae5%2F791b6cc60d01b1e8ebc642def4fb5c9003acaae5.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.3",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://yabancidizi.vip/uploads/series/elite-izle-4.jpg",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "7.6",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.starmometer.com%2Fwp-content%2Fuploads%2F2018%2F05%2FTHE_RAIN_Vertical-WALKING_PRE_US.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "6.4",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flucifer%2Fimages%2Fc%2Fc9%2FS3_keyart2.jpg%2Frevision%2Flatest%3Fcb%3D20171113021122&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.2",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://m.media-amazon.com/images/M/MV5BNDJiZDliZDAtMjc5Yy00MzVhLThkY2MtNDYwNTQ2ZTM5MDcxXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "6.7",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FM%2FMV5BZDNmNmI5MGItMjUyOC00ODg4LWE0NmEtMzg5MjUzOWI2MDcwXkEyXkFqcGdeQXVyNjYzNDE4ODA%40._V1_UY1200_CR85%2C0%2C630%2C1200_AL_.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "7.0",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.tvgcdn.net%2Ffeed%2F1%2F430%2Fthumbs%2F115788430_1300x1733.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.4",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BNjIzZjljZmQtOGNiYi00YmY2LWE1MGYtN2VlMmEyZDBlMzRmXkEyXkFqcGdeQXVyMTkxNjUyNQ%40%40._V1_UY1200_CR84%2C0%2C630%2C1200_AL_.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.5",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.1",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fy3Huzln26zGNW4RCr0h4PTwEpfi.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.0",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FM%2FMV5BNTEwYzNiMGUtNzRlYS00MTMzLTliNzgtOGUxZGZiNThlNWYwXkEyXkFqcGdeQXVyMjYwNDA2MDE%40._V1_UY1200_CR90%2C0%2C630%2C1200_AL_.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.8",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
+      "title": "",
+      "id": "",
+      "pic": "https://yabancidizi.vip/uploads/series/daybreak.jpg",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "6.7",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    }
+  ]
+}

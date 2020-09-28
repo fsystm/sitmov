@@ -1,0 +1,21 @@
+{
+  "name": "sitmov",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "9.4.4",
+    "raw-loader": "^4.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-slideshow-image": "^3.2.0",
+    "reactstrap": "^8.5.1"
+  }
+}
