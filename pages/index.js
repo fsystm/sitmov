@@ -4,7 +4,7 @@ import Navigation from "../component/nav";
 import unfetch from "isomorphic-unfetch";
 import { Slide } from "react-slideshow-image";
 
-export default function Home({ posts }) {
+export default function Home({ posts, home }) {
 
   return (
     <div>
@@ -15,7 +15,7 @@ export default function Home({ posts }) {
       <div className="containerr user-select-none">
         <Navigation />
 
-        {/* <div className="bigPhotoHome">
+         <div className="bigPhotoHome">
           <Link href="">
             <a>
               <img
@@ -25,7 +25,7 @@ export default function Home({ posts }) {
               />
             </a>
           </Link>
-        </div> */}
+        </div> 
 
         <div className="sitmovList">
           <div className="sitmovListTitle">
@@ -62,12 +62,12 @@ export async function getStaticProps() {
   const data = await unfetch("https://sitmov-api.vercel.app/db.json");
   const posts = await data.json();
   console.log(posts)
-  // const data2 = await fetch("http://localhost:8080/HomePage");
-  // const home = await data2.json();
+  const data2 = await fetch("http://localhost:8080/HomePage");
+  const home = await data2.json();
   return {
     props: {
       posts: posts,
-      // home: home[0],
+      // home: home.HomePage[0],
     },
   };
 }
