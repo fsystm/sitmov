@@ -207,7 +207,6 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: black;
 }
 
 li {
@@ -215,7 +214,6 @@ li {
   font-size: 22PX;
   color: white;
   float: left;
-  background-color: black;
   font-family: 'Pacifico', cursive;
 }
 
@@ -230,4 +228,12 @@ li a {
 li a:hover {
   color: white;
   text-decoration: none;
+}
+
+.demo{
+  font-style: italic;
+  color: yellow;
+  font-size: 12px;
+  margin-top: 35px;
+  margin-left: -10px;
 }
