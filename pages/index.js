@@ -37,7 +37,7 @@ export default function Home({ posts, home }) {
           {posts.sitmovAPI.map((post) => (
             <div className="littleContainer" key={post.id}>
               <Link href="/post/[id]" as={`/post/${post.id}`}>
-                <a onClick={() => alert("Loading: " + post.title)}>
+                <a>
                   <img
                     className="sitmovPic"
                     width="100px"
