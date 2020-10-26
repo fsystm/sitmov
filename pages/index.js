@@ -3,9 +3,7 @@ import Link from "next/link";
 import Navigation from "../component/nav";
 import unfetch from "isomorphic-unfetch";
 
-
 export default function Home({ posts, home }) {
-  console.log(home.img);
   return (
     <div className="all">
       <head>
@@ -34,11 +32,11 @@ export default function Home({ posts, home }) {
         <div className="sitmovList">
           <div className="sitmovListTitle">
             <h2>All Series{posts.title}</h2>
-            <h3 className="total">Total Series: {posts.sitmovAPI.length}</h3>
+            <h3 className="total">Total Series: {posts.length}</h3>
           </div>
           <hr className="hr" />
 
-          {posts.sitmovAPI.map((post) => (
+          {posts.map((post) => (
             <div className="littleContainer" key={post.id}>
               <Link href="/series/[id]" as={`/series/${post.id}`}>
                 <a>
@@ -48,6 +46,9 @@ export default function Home({ posts, home }) {
                     src={post.pic}
                     alt={post.title}
                   />
+                  <div class="middle">
+                    <div class="text">{post.title}</div>
+                  </div>
                   <p className="imdbHome">{post.imdb}/10</p>
                 </a>
               </Link>
