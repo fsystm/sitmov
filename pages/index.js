@@ -32,11 +32,11 @@ export default function Home({ posts, home }) {
         <div className="sitmovList">
           <div className="sitmovListTitle">
             <h2>All Series{posts.title}</h2>
-            <h3 className="total">Total Series: {posts.length}</h3>
+            <h3 className="total">Total Series: {posts.sitmovAPI.length}</h3>
           </div>
           <hr className="hr" />
 
-          {posts.map((post) => (
+          {posts.sitmovAPI.map((post) => (
             <div className="littleContainer" key={post.id}>
               <Link href="/series/[id]" as={`/series/${post.id}`}>
                 <a>
