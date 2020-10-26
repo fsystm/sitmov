@@ -2,47 +2,51 @@ import React from "react";
 import Link from "next/link";
 import Navigation from "../component/nav";
 import unfetch from "isomorphic-unfetch";
-import { Slide } from "react-slideshow-image";
+const mongoose = require("mongoose");
 
 export default function Home({ posts, home }) {
-
+  console.log(home.img);
   return (
-    <div>
+    <div className="all">
       <head>
         <title>Sitmov</title>
-        
       </head>
       <div className="containerr user-select-none">
         <Navigation />
 
-         <div className="bigPhotoHome">
-          <Link href="">
-            <a>
-              <img
-                className="bigPic"
-                src={home.img}
-                alt="Deleted Picture"
-              />
-            </a>
-          </Link>
-        </div> 
+        <div className="bigPhotoHome">
+          <div className="content">
+            <h3>{home.title}</h3>
+            <p className="contentText">{home.details}</p>
+            <Link
+              className="contPlay"
+              href="/series/[id]"
+              as={`/series/${home.id}`}
+            >
+              <a>
+                <div className="playbttn"></div>
+                <p className="playtext">watch trailer</p>
+              </a>
+            </Link>
+          </div>
+        </div>
 
         <div className="sitmovList">
           <div className="sitmovListTitle">
-            <h2>All Series</h2>
+            <h2>All Series{posts.title}</h2>
             <h3 className="total">Total Series: {posts.sitmovAPI.length + 1}</h3>
           </div>
           <hr className="hr" />
 
           {posts.sitmovAPI.map((post) => (
             <div className="littleContainer" key={post.id}>
-              <Link href="/post/[id]" as={`/post/${post.id}`}>
+              <Link href="/series/[id]" as={`/series/${post.id}`}>
                 <a>
                   <img
                     className="sitmovPic"
                     width="100px"
                     src={post.pic}
-                    alt=""
+                    alt={post.title}
                   />
                   <p className="imdbHome">{post.imdb}/10</p>
                 </a>
@@ -61,7 +65,7 @@ export default function Home({ posts, home }) {
 export async function getStaticProps() {
   const data = await unfetch("https://sitmov-api.vercel.app/db.json");
   const posts = await data.json();
-  const data2 = await unfetch("https://sitmov-api.vercel.app/db.json");
+  const data2 = await fetch("https://sitmov-api.vercel.app/db.json");
   const home = await data2.json();
   return {
     props: {
