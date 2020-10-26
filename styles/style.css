@@ -1,29 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Ubuntu:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
-
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Play&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 
 * {
   margin: 0;
   padding: 0;
-  background-color: #050b11;
   text-decoration: none;
+}
+.all {
+  width: 100%;
+  height: 100%;
+  background-color: #050b11;
 }
 .containerr {
   max-width: 1000px;
   width: 100%;
   margin: 0 auto;
   padding-top: 10px;
-}
-.details {
-  margin: 0 auto;
-  max-width: 950px;
-  width: 100%;
-  height: auto;
 }
 .detailsTextAlign {
   margin-top: 25px;
@@ -45,34 +43,6 @@
 .detailsBtn {
   margin-top: 90px;
 }
-.watchNow {
-  margin-right: 20px;
-  border-radius: 30px;
-  padding: 7px 20px;
-  color: white;
-  background-color: #2874a6;
-  display: inline-block;
-  font-family: "Open Sans", sans-serif;
-  font-size: 15px;
-}
-.watchNow:hover {
-  text-decoration: none;
-  color: white;
-}
-.download {
-  border-radius: 30px;
-  padding: 7px 20px;
-  background: transparent;
-  color: white;
-  display: inline-block;
-  border: 1px solid white;
-  font-family: "Open Sans", sans-serif;
-  font-size: 15px;
-}
-.download:hover {
-  text-decoration: none;
-  color: white;
-}
 .detailsPic {
   float: right;
   margin-right: 100px;
@@ -83,8 +53,8 @@
 }
 .sitmovList {
   max-width: 950px;
-  margin: 0 auto;
   margin-top: 50px;
+  margin-bottom: 22em;
   color: white;
 }
 .sitmovPic {
@@ -103,6 +73,7 @@
   margin-bottom: 25px;
 }
 .bigPic {
+  color: white;
   margin-top: 20px;
   width: 100%;
   height: 500px;
@@ -116,7 +87,7 @@
   position: relative;
   display: inline-block;
 }
-.imdbHome{
+.imdbHome {
   font-weight: 500;
   font-size: 16px;
   color: black;
@@ -130,9 +101,9 @@
   height: 8%;
   width: 22%;
   background-color: yellow;
-  font-family: 'Teko', sans-serif;
+  font-family: "Teko", sans-serif;
 }
-.embedTrailer{
+.embedTrailer {
   background-color: black;
   width: 100%;
   height: 500px;
@@ -140,67 +111,68 @@
   margin-top: 20px;
   margin-bottom: 100px;
 }
-.idPic{
+.idPic {
   float: left;
   width: 250px;
   height: 350px;
 }
-.idDetails{
+.idDetails {
   float: left;
   margin-left: 15px;
   width: 680px;
   padding: 10px;
 }
-.idDetailsText{
+.idDetailsText {
   font-size: 15px;
-  color: #ABB2B9 ;
-  font-family: 'Open Sans', sans-serif;
+  color: #abb2b9;
+  font-family: "Open Sans", sans-serif;
 }
 table {
   border-collapse: collapse;
   width: 100%;
   margin-bottom: 15px;
 }
-#table-example-1 { 
-  border: solid thin #17202A; 
-  border-collapse: collapse; 
+#table-example-1 {
+  border: solid thin #17202a;
+  border-collapse: collapse;
 }
-#table-example-1 td { 
-  border: solid thin #17202A;
+#table-example-1 td {
+  border: solid thin #17202a;
   padding: 0rem 2rem;
   padding-top: 5px;
 }
-#table-example-1 td { 
-  border-style: none solid; 
+#table-example-1 td {
+  border-style: none solid;
 }
-.tr1{
+.tr1 {
   text-align: center;
   font-size: 13px;
-  color: #85929E ;
-  font-family: 'Ubuntu', sans-serif;
+  color: #85929e;
+  font-family: "Ubuntu", sans-serif;
 }
-.tr2{
+.tr2 {
   text-align: center;
   font-size: 13px;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Ubuntu", sans-serif;
 }
-.td-imdb{
-  color: #F39C12 ;
+.td-imdb {
+  color: #f39c12;
 }
-.genre{
-  color: #5DADE2;
+.genre {
+  color: #5dade2;
   margin-top: -2px;
   float: left;
 }
-.genreTitle{
+.genreTitle {
   float: left;
 }
-.footer{
+.footer p {
   margin-top: 50px;
-  margin-bottom: 20px;
   margin-left: 25px;
-  color: #909497 ;
-  font-family: 'Play', sans-serif;
+  padding-bottom: 20px;
+  margin-bottom: -100px;
+  color: #909497;
+  font-family: "Play", sans-serif;
 }
 ul {
   list-style-type: none;
@@ -214,7 +186,7 @@ li {
   font-size: 25px;
   color: white;
   float: left;
-  font-family: 'Pacifico', cursive;
+  font-family: "Pacifico", cursive;
 }
 
 li a {
@@ -230,10 +202,68 @@ li a:hover {
   text-decoration: none;
 }
 
-.demo{
+.demo {
   font-style: italic;
   color: yellow;
   font-size: 12px;
   margin-top: 35px;
   margin-left: -10px;
+}
+
+.bigPhotoHome {
+  margin-top: 30px;
+  position: relative;
+  width: 100%;
+  min-height: 500px;
+  padding: 0 100px;
+  background: url(the-boys.png);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bigPhotoHome a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.contentText {
+  max-width: 400px;
+  margin-left: -480px;
+  color: white;
+  font-size: 15px;
+}
+
+.content h3 {
+  margin-top: -150px;
+  margin-bottom: 100px;
+  margin-left: -480px;
+  font-size: 35px;
+  font-family: "Anton", sans-serif;
+  text-transform: uppercase;
+  color: white;
+}
+
+.playbttn {
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  display: flex;
+  width: 100%;
+  padding: 20px;
+  background-image: url(play.png);
+  margin-top: 25px;
+  margin-left: -477px;
+  margin-bottom: -60px;
+}
+
+.playtext {
+  margin-left: -427px;
+  margin-top: 32px;
+  margin-bottom: -40px;
+  color: white;
+  font-size: 11.5px;
+  text-transform: uppercase;
+  font-family: 'Krona One', sans-serif;
 }
