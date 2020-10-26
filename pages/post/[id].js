@@ -6,7 +6,7 @@ import Navigation from "../../component/nav";
 
 export default function SitmovId({ post }) {
   return (
-    <div>
+    <div className="all">
       <head>
         <title>{post.title}</title>
       </head>
@@ -14,8 +14,6 @@ export default function SitmovId({ post }) {
         <Navigation />
 
         <Container>
-          <div></div>
-          <div className="details"></div>
           <div className="sitmovList">
             <h2 className="sitmovListTitle">{post.title}</h2>
             <h1>{post.name}</h1>
@@ -53,6 +51,8 @@ export default function SitmovId({ post }) {
                 </div>
               ))}
             </div>
+          </div>
+          <div className="yt">
             <iframe
               className="embedTrailer"
               src={post.trailer}
@@ -71,7 +71,7 @@ export default function SitmovId({ post }) {
 }
 
 export async function getStaticPaths() {
-  const data = await fetch("https://sitmov-api.vercel.app/db.json/");
+  const data = await fetch("https://sitmov-api.vercel.app/db.json");
   const posts = await data.json();
   return {
     paths: posts.sitmovAPI.map((post) => {
@@ -93,6 +93,3 @@ export async function getStaticProps({ params }) {
     },
   };
 }
-
-
-
