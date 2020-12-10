@@ -1,11 +1,13 @@
 import Link from "next/link";
 
+
+
 function Navigation() {
   return (
     <div>
       <ul>
         <li>
-          <Link href="/[]" as={`/index`}>
+          <Link href="/" as={``}>
             <a>Sitmov.com</a>
           </Link>
         </li>
@@ -13,6 +15,7 @@ function Navigation() {
           Demo
         </li>
       </ul>
+      
     </div>
   );
 }
