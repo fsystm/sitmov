@@ -5,6 +5,7 @@ import Link from "next/link";
 import Navigation from "../../component/nav";
 
 export default function SitmovId({ post }) {
+  console.log(post)
   return (
     <div className="all">
       <head>
@@ -16,7 +17,6 @@ export default function SitmovId({ post }) {
         <Container>
           <div className="sitmovList">
             <h2 className="sitmovListTitle">{post.title}</h2>
-            <h1>{post.name}</h1>
             <hr className="hr" />
             <img className="idPic" src={post.pic} alt="" />
 
@@ -47,7 +47,9 @@ export default function SitmovId({ post }) {
               <h5>Cast:</h5>
               {post.casts.map((cast) => (
                 <div className="castPics">
-                  <img className="castPic" src={cast.pic} alt="" />
+                  <Link href={cast.pic} >
+                  <a target="_" ><img className="castPic" src={cast.pic} alt="" /></a>
+                  </Link>
                 </div>
               ))}
             </div>
@@ -71,10 +73,11 @@ export default function SitmovId({ post }) {
 }
 
 export async function getStaticPaths() {
-  const data = await fetch("https://sitmov-api.vercel.app/db.json");
+  const data = await fetch("http://localhost:8080/sitmovAPI");
+  // const data = await fetch("https://sitmov-api.vercel.app/db.json");
   const posts = await data.json();
   return {
-    paths: posts.sitmovAPI.map((post) => {
+    paths: posts.map((post) => {
       return {
         params: { id: post.id },
       };
@@ -84,8 +87,8 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const data = await fetch(`https://sitmov-api.vercel.app/${params.id}.json`);
-  console.log(data.pic);
+  const data = await fetch(`http://localhost:8080/sitmovAPI/${params.id}`);
+  // const data = await fetch(`https://sitmov-api.vercel.app/${params.id}.json`);
   const post = await data.json();
   return {
     props: {
