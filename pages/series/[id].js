@@ -73,8 +73,7 @@ export default function SitmovId({ post }) {
 }
 
 export async function getStaticPaths() {
-  const data = await fetch("http://localhost:8080/sitmovAPI");
-  // const data = await fetch("https://sitmov-api.vercel.app/db.json");
+const data = await fetch("https://sitmov-api.vercel.app/db.json");
   const posts = await data.json();
   return {
     paths: posts.map((post) => {
@@ -87,8 +86,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const data = await fetch(`http://localhost:8080/sitmovAPI/${params.id}`);
-  // const data = await fetch(`https://sitmov-api.vercel.app/${params.id}.json`);
+   const data = await fetch(`https://sitmov-api.vercel.app/${params.id}.json`);
   const post = await data.json();
   return {
     props: {
