@@ -44,7 +44,7 @@ export default function Home({ posts, home }) {
                     className="sitmovPic"
                     width="100px"
                     src={post.pic}
-                    alt={post.title}
+                    alt="https://st4.depositphotos.com/14953852/22772/v/600/depositphotos_227725020-stock-illustration-image-available-icon-flat-vector.jpg"
                   />
                   <div class="middle">
                     <div class="text">{post.title}</div>
