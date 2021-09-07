@@ -47,9 +47,7 @@ export default function SitmovId({ post }) {
               <h5>Cast:</h5>
               {post.casts.map((cast) => (
                 <div className="castPics">
-                  <Link href={cast.pic} >
-                  <a target="_" ><img className="castPic" src={cast.pic} alt="" /></a>
-                  </Link>
+                  <img className="castPic" src={cast.pic} alt="" />
                 </div>
               ))}
             </div>
