@@ -46,9 +46,9 @@ export default function SitmovId({ post }) {
               </table>
               <h5>Cast:</h5>
               {post.casts.map((cast) => (
-                <div className="castPics">
-                  <img className="castPic" src={cast.pic} alt="" />
-                </div>
+                <Link href={cast.pic} >
+                  <a target="_" ><img className="castPic" src={cast.pic} alt="" /></a>
+                </Link>
               ))}
             </div>
           </div>
@@ -76,7 +76,7 @@ const data = await fetch("https://sitmov-api.vercel.app/db.json");
   return {
     paths: posts.map((post) => {
       return {
-        params: { id: post.id },
+        params: { id: post.id.toString() },
       };
     }),
     fallback: false,
