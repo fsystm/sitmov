@@ -84,7 +84,7 @@ const data = await fetch("https://sitmov-api.vercel.app/db.json");
 }
 console.log(data)
 export async function getStaticProps({ params }) {
-   const data = await fetch(`https://sitmov-api.vercel.app/${params.id}.json`);
+   const data = await fetch(`https://sitmov-api.vercel.app/${id}.json`);
   const post = await data.json();
   return {
     props: {
