@@ -43,15 +43,15 @@ export default function Home({ posts, home }) {
                 </Link>
               </li>
               <li>
-                <Link target="_" href="" as={`/movie`}>
-                  <a className="sitNav">
+                <Link  href="" as={`/movie`}>
+                  <a target="_" className="sitNav">
                     <h2>Movie</h2>
                   </a>
                 </Link>
               </li>
               <li>
-                <Link target="_" href="" as={`/anime`}>
-                  <a className="sitNav">
+                <Link  href="" as={`/anime`}>
+                  <a target="_" className="sitNav">
                     <h2>Anime</h2>
                   </a>
                 </Link>
