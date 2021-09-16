@@ -1,21 +1,16 @@
 import Link from "next/link";
 
-
-
 function Navigation() {
   return (
     <div>
       <ul>
         <li>
           <Link href="/" as={``}>
-            <a>Sitmov.com</a>
+            <a className="com">Sitmov.com</a>
           </Link>
         </li>
-        <li className="demo">
-          Demo
-        </li>
+        <li className="demo">Demo</li>
       </ul>
-      
     </div>
   );
 }
