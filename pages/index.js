@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import Navigation from "../component/nav";
 import unfetch from "isomorphic-unfetch";
+import SitNavigation from "../component/sitNav";
 import { useState } from "react";
 
 export default function Home({ posts, home }) {
