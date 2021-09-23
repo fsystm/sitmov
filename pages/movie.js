@@ -64,7 +64,7 @@ export default function Home({ posts, home }) {
                 setSearchTerm(event.target.value);
               }}
             />
-            {/* <h3 className="total">Total Movie: {posts.MovieAPI.length}</h3> */}
+            
           </div>
           <hr className="hr" />
           {posts.MovieAPI.filter((post) => {
