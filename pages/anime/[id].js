@@ -6,8 +6,9 @@ import Navigation from "../../component/nav";
 
 export default function SitmovId({ post }) {
   console.log(post);
-  window.location.reload();
+
   return (
+    window.location.reload();
     <div className="all">
       <head>
         <title>{post.title}</title>
