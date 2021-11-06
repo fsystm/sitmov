@@ -8,7 +8,7 @@ export default function SitmovId({ post }) {
   console.log(post);
 
   return (
-    window.location.reload();
+    window.location.reload(true);
     <div className="all">
       <head>
         <title>{post.title}</title>
