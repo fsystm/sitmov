@@ -5,8 +5,6 @@ import Link from "next/link";
 import Navigation from "../../component/nav";
 
 export default function SitmovId({ post }) {
-  console.log(post);
-
   return (
     <div className="all">
       <head>
