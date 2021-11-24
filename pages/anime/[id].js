@@ -41,7 +41,7 @@ export default function SitmovId({ post }) {
                   </tr>
                 </tbody>
               </table>
-              <h5>Cast:</h5>
+              <h5>Characters:</h5>
               {post.casts.map((cast) => (
                 <Link href={cast.pic}>
                   <a target="_">
