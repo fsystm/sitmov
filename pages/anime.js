@@ -36,7 +36,7 @@ export default function Home({ posts, home }) {
           <div className="sitmovListTitle">
             <ul>
               <li>
-                <Link href="" as={``}>
+                <Link href="/" as={``}>
                   <a className="sitNav">
                     <h2>Series</h2>
                   </a>
