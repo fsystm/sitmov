@@ -391,11 +391,11 @@
  }
  ::-webkit-scrollbar-track{
   border-radius: 5px;
-  background-color: #03071e;
+  background-color: #050b11;
  }
  ::-webkit-scrollbar-thumb{
  border-radius: 3px;
-  background-color: #370617;
+  background-color: gray;
  }
 }
 
