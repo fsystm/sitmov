@@ -388,13 +388,14 @@
   ::-webkit-scrollbar{
   width: 10px;
    border-radius: 5px;
+   background-color: #050b11;
  }
  ::-webkit-scrollbar-track{
   border-radius: 5px;
   background-color: #050b11;
  }
  ::-webkit-scrollbar-thumb{
- border-radius: 3px;
+ border-radius: 5px;
   background-color: gray;
  }
 }
