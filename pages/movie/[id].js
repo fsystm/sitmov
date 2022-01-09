@@ -84,7 +84,7 @@ const data = await fetch("https://api.npoint.io/6541d0fdda2ecf88e315/MovieAPI/")
 }
 
 export async function getStaticProps({ params }) {
-   const data = await fetch(`https://api.npoint.io/6541d0fdda2ecf88e315/MovieAPI//${params.id}/`);
+   const data = await fetch(`https://api.npoint.io/0c5f075f00934def7037/${params.id}/`);
   const post = await data.json();
   return {
     props: {
