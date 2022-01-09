@@ -68,7 +68,7 @@ export default function SitmovId({ post }) {
 }
 
 export async function getStaticPaths() {
-const data = await fetch("https://api.npoint.io/6541d0fdda2ecf88e315/MovieAPI/");
+const data = await fetch("https://api.npoint.io/0c5f075f00934def7037/movieAPI/");
   const posts = await data.json();
   return {
     paths: posts.map((post) => {
