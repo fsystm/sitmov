@@ -47,7 +47,7 @@ export default function SitmovId({ post }) {
                //   <a target="_" ><img className="castPic" src={cast.pic} alt="" /></a>
                // </Link>
              // ))}
-            </div>
+          //  </div>
           </div>
           <div className="yt">
             <iframe
