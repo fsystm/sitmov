@@ -8,18 +8,22 @@ export default function SitmovId({ post }) {
   return (
     <div className="all">
       <head>
-        <title></title>
+        <title>{post.title}</title>
       </head>
       <div className="containerr user-select-none">
         <Navigation />
 
         <Container>
           <div className="sitmovList">
+            <h2 className="sitmovListTitle">{post.title}</h2>
             <hr className="hr" />
+            <img className="idPic" src={post.pic} alt="" />
 
             <div className="idDetails">
               <h3>Description</h3>
+              <p className="idDetailsText">&nbsp;&nbsp; {post.details}</p>
               <h6 className="genreTitle">Genre:</h6>
+              <p className="genre">&nbsp;{post.kind}</p>
 
               <table id="table-example-1">
                 <tbody>
@@ -30,16 +34,29 @@ export default function SitmovId({ post }) {
                     <td>YEARS</td>
                   </tr>
                   <tr className="tr2">
-                    
+                    <td>{post.country.toUpperCase()}</td>
+                    <td>{post.hour}</td>
+                    <td className="td-imdb">{post.imdb}</td>
+                    <td>{post.years}</td>
                   </tr>
                 </tbody>
               </table>
               <h5>Cast:</h5>
-              
+              {post.casts.map((cast) => (
+                <Link href={cast.pic} >
+                  <a target="_" ><img className="castPic" src={cast.pic} alt="" /></a>
+                </Link>
+              ))}
             </div>
           </div>
           <div className="yt">
-           
+            <iframe
+              className="embedTrailer"
+              //src={post.trailer}
+              frameborder="0"
+              allow="accelerometer; fullscreen; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            />
           </div>
           <footer className="footer">
             <p>&copy;2020 Emirhan Akpınar</p>
