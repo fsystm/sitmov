@@ -67,7 +67,7 @@ export default function Home({ posts, home }) {
             
           </div>
           <hr className="hr" />
-          {posts.MovieAPI.filter((post) => {
+          {posts.movieAPI.filter((post) => {
             if (searchTerm == "") {
               return post;
             } else if (
@@ -84,7 +84,7 @@ export default function Home({ posts, home }) {
                     <div class="middle">
                       <div class="text">{post.title}</div>
                     </div>
-                    <p className="imdbHome">{post.imdb}/10</p>
+                    <p className="imdbHome">{post.imdbRating}/10</p>
                   </a>
                 </Link>
               </div>
@@ -100,7 +100,7 @@ export default function Home({ posts, home }) {
 }
 
 export async function getStaticProps() {
-  const data = await unfetch("https://api.npoint.io/6541d0fdda2ecf88e315");
+  const data = await unfetch("https://api.npoint.io/0c5f075f00934def7037");
   const posts = await data.json();
   const data2 = await fetch(
     "https://api.npoint.io/bf28e941fb74e5921d29/MovieHomePage/0/"
