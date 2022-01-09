@@ -80,7 +80,7 @@ export default function Home({ posts, home }) {
               <div className="littleContainer" key={post.id}>
                 <Link href="/movie/[id]" as={`/movie/${post.id}`}>
                   <a>
-                    <img className="sitmovPic" width="100px" alt={post.title} src={post.pic} />
+                    <img className="sitmovPic" width="100px" alt={post.title} src={post.poster} />
                     <div class="middle">
                       <div class="text">{post.title}</div>
                     </div>
