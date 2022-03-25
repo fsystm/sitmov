@@ -17,13 +17,13 @@ export default function SitmovId({ post }) {
           <div className="sitmovList">
             <h2 className="sitmovListTitle">{post.title}</h2>
             <hr className="hr" />
-            <img className="idPic" src={post.pic} alt="" />
+            <img className="idPic" src={post.posterurl} alt="" />
 
             <div className="idDetails">
               <h3>Description</h3>
-              <p className="idDetailsText">&nbsp;&nbsp; {post.details}</p>
+              <p className="idDetailsText">&nbsp;&nbsp; {post.storyline}</p>
               <h6 className="genreTitle">Genre:</h6>
-              <p className="genre">&nbsp;{post.kind}</p>
+            //  <p className="genre">&nbsp;{post.genres[]}</p>
 
               <table id="table-example-1">
                 <tbody>
@@ -34,25 +34,25 @@ export default function SitmovId({ post }) {
                     <td>YEARS</td>
                   </tr>
                   <tr className="tr2">
-                    <td>{post.country.toUpperCase()}</td>
-                    <td>{post.hour}</td>
-                    <td className="td-imdb">{post.imdb}</td>
-                    <td>{post.years}</td>
+                   // <td>{post.country.toUpperCase()}</td>
+                   // <td>{post.hour}</td>
+                //    <td className="td-imdb">{post.imdb}</td>
+                    <td>{post.year}</td>
                   </tr>
                 </tbody>
               </table>
               <h5>Cast:</h5>
-              {post.casts.map((cast) => (
-                <Link href={cast.pic} >
-                  <a target="_" ><img className="castPic" src={cast.pic} alt="" /></a>
-                </Link>
-              ))}
+              //{post.casts.map((cast) => (
+               // <Link href={cast.pic} >
+               //   <a target="_" ><img className="castPic" src={cast.pic} alt="" /></a>
+            //    </Link>
+            //  ))}
             </div>
           </div>
           <div className="yt">
             <iframe
               className="embedTrailer"
-              src={post.trailer}
+             // src={post.trailer}
               frameborder="0"
               allow="accelerometer; fullscreen; autoplay; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
@@ -68,7 +68,7 @@ export default function SitmovId({ post }) {
 }
 
 export async function getStaticPaths() {
-const data = await fetch("https://api.npoint.io/6541d0fdda2ecf88e315/MovieAPI/");
+const data = await fetch("https://api.npoint.io/0c5f075f00934def7037/MovieAPI/");
   const posts = await data.json();
   return {
     paths: posts.map((post) => {
